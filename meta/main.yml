@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: test_ansible_vault
+  author: ASTudio
+  description: Testing Ansible Vault
+  company: AStudio
+  issue_tracker_url: github.com
+  license: MI
+  min_ansible_version: '7.5'
+  min_ansible_container_version: '6.7'
+  github_branch: master
+  galaxy_tags:
+    - vault
+    - password
+  platforms:
+    - name: macOS
+      versions:
+        - all
+dependencies: []
